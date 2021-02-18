@@ -1,0 +1,64 @@
+/* THIS IS A CSS COMMENT */
+body {
+    background-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0; margin: 0;
+    font-size: 18px;
+    color:cornsilk
+}
+  
+header, main, footer{
+    width: 960px;
+    background:crimson;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border-bottom: 3px solid darkgoldenrod;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-left: 1px solid black;
+    padding-left: 30px;
+}
+
+.intro{
+    font-size: 200%;
+    color: black;
+}
+
+#my-image{box-shadow: 5px 10px #888888;box-shadow: 5px 10px #888888;}
+
+
+
+
+
+
+blockquote {
+    background-color: cadetblue;
+    color: black;
+    font-size: 200%;
+}
+
+ul {list-style-type: square;}
+
+
+
+#articleone{
+    background: blanchedalmond;   
+    font-size: 80%
+}
+
+
+
+  a:link {
+    color: red;
+  }
+
+  a:hover {
+    color: rgb(214, 69, 142);
+  }
+  a:visited {
+    color: rgb(68, 190, 68);
+
